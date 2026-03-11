@@ -1,0 +1,27 @@
+{
+    "message": "OTP sent",
+    "loginSessionId": "h4v0bp8z"
+}
+
+
+{
+    "message": "OTP verified",
+    "sessionId": "h4v0bp8z"
+}
+
+{
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImJhcmFud2FsazYyNEBnbWFpbC5jb20iLCJzZXNzaW9uSWQiOiJoNHYwYnA4eiIsImlhdCI6MTc3MzIzMzI1NiwiZXhwIjoxNzczMjM0MTU2fQ.eRpzjCweOGeEkESNVcN8MuilKMdljeEdOkycqgqhuNM",
+    "expires_in": 900
+}
+
+
+{
+    "message": "Access granted",
+    "user": {
+        "email": "baranwalk624@gmail.com",
+        "sessionId": "h4v0bp8z",
+        "iat": 1773233256,
+        "exp": 1773234156
+    },
+    "success_flag": "FLAG-YmFyYW53YWxrNjI0QGdtYWlsLmNvbV9DT01QTEVURURfQVNTSUdOTUVOVA=="
+}
