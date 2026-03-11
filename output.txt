@@ -1,21 +1,22 @@
-{
+1. {
     "message": "OTP sent",
     "loginSessionId": "h4v0bp8z"
 }
 
 
-{
+2. {
     "message": "OTP verified",
     "sessionId": "h4v0bp8z"
 }
 
-{
+
+3.{
     "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImJhcmFud2FsazYyNEBnbWFpbC5jb20iLCJzZXNzaW9uSWQiOiJoNHYwYnA4eiIsImlhdCI6MTc3MzIzMzI1NiwiZXhwIjoxNzczMjM0MTU2fQ.eRpzjCweOGeEkESNVcN8MuilKMdljeEdOkycqgqhuNM",
     "expires_in": 900
 }
 
 
-{
+4.{
     "message": "Access granted",
     "user": {
         "email": "baranwalk624@gmail.com",
